@@ -6,12 +6,28 @@
 
 ## Instructors
 
-* Dr. Tracy A. Heath [http://phyloworks.org](http://phyloworks.org) 
-* Dr. Walker Pett [http://willpett.github.io](http://willpett.github.io) 
+* Dr. Tracy A. Heath, Iowa State University ([http://phyloworks.org](http://phyloworks.org)) 
+* Dr. Walker Pett, Iowa State University ([http://willpett.github.io](http://willpett.github.io)) 
 
 ## Workshop Description
 
-Bayesian statistical methods enable ...
+Bayesian statistical methods enable analysis of macroevolutionary processes under complex phylogenetic models. 
+This workshop will focus on the theory and practice of estimating time-calibrated phylogenies from neontological and paleontological data.
+We will teach these concepts by integrating theory-based lectures with hands-on practicals in the program RevBayes.
+[RevBayes](http://revbayes.github.io/) is a program that provides a flexible framework for Bayesian phylogenetic inference. 
+
+### Topics
+
+* Introduction to Bayesian inference and MCMC
+* Probabilistic graphical models
+* The Rev language 
+* Inferring phylogenies in RevBayes
+* Model selection using Bayes factors
+* Estimating species divergence times
+    * Stochastic branching processes as tree priors, with particular emphasis on the fossilized birth-death model (FBD)
+    * Models of lineage-specific substitution rates (or rates of morphological change)
+    * Models of discrete morphological character change and accounting for acquisition biases
+
 
 ## Install RevBayes & Accessory Programs
 
@@ -37,3 +53,9 @@ This workshop covers phylogenetic analysis under complex statistical models. Bec
 * Model Selection using Bayes Factors ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_BayesFactor_Tutorial.pdf))
 
 ### Reading
+
+Höhna, Landis, Heath, Boussau, Lartillot, Moore, Huelsenbeck, Ronquist. 2016. RevBayes: Bayesian phylogenetic inference using graphical models and an interactive model-specification language. Systematic Biology, 65:726-736.
+
+Heath, Huelsenbeck, Stadler. 2014. The fossilized birth-death process for coherent calibration of divergence-time estimates. Proceedings of the National Academy of Sciences 111(29):E2957–E2966. 
+
+Höhna, Heath, Boussau, Landis, Ronquist, Huelsenbeck. 2014. Probabilistic graphical model representation in phylogenetics. Systematic Biology 63:753–771.
