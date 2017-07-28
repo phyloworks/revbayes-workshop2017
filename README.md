@@ -1,8 +1,10 @@
 # Introduction to Bayesian inference of phylogenies using molecular and fossil data in RevBayes
 
-### *International Biogeography Society 2017 – Bengaluru, India*
+## Upcoming Worshops
 
-### September 25-26, 2017
+* **August 14-15, 2017** -- *Iowa State University*, Ames, Iowa
+* **September 25-26, 2017** -- *International Biogeography Society*, Bengaluru, India
+
 
 ## Instructors
 
