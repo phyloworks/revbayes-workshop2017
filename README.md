@@ -56,8 +56,14 @@ This workshop covers phylogenetic analysis under complex statistical models. Bec
 
 ### Reading
 
-Höhna, Landis, Heath, Boussau, Lartillot, Moore, Huelsenbeck, Ronquist. 2016. RevBayes: Bayesian phylogenetic inference using graphical models and an interactive model-specification language. Systematic Biology, 65:726-736.
+Höhna, Landis, Heath, Boussau, Lartillot, Moore, Huelsenbeck, Ronquist. 2016. [RevBayes: Bayesian phylogenetic inference using graphical models and an interactive model-specification language](http://sysbio.oxfordjournals.org/content/65/4/726). Systematic Biology, 65:726-736.
 
-Heath, Huelsenbeck, Stadler. 2014. The fossilized birth-death process for coherent calibration of divergence-time estimates. Proceedings of the National Academy of Sciences 111(29):E2957–E2966. 
+Heath, Huelsenbeck, Stadler. 2014. [The fossilized birth-death process for coherent calibration of divergence-time estimates](http://www.pnas.org/content/111/29/E2957.abstract). Proceedings of the National Academy of Sciences 111(29):E2957–E2966. 
 
-Höhna, Heath, Boussau, Landis, Ronquist, Huelsenbeck. 2014. Probabilistic graphical model representation in phylogenetics. Systematic Biology 63:753–771.
+Höhna, Heath, Boussau, Landis, Ronquist, Huelsenbeck. 2014. [Probabilistic graphical model representation in phylogenetics](http://sysbio.oxfordjournals.org/content/63/5/753). Systematic Biology 63:753–771.
+
+Gavryushkina, Heath, Ksepka, Stadler, Welch, Drummond. 2017. [Bayesian total evidence dating reveals the recent crown radiation of penguins](http://sysbio.oxfordjournals.org/content/early/2016/07/27/sysbio.syw060.full). Systematic Biology, 66(1):57-73.
+
+du Plessis, and Stadler. 2015. [Getting to the root of epidemic spread with phylodynamic analysis of genomic data](http://www.sciencedirect.com/science/article/pii/S0966842X15001018). Trends in Microbiology, 23:383-386.
+
+Stadler, Kühnert, Bonhoeffer, and Drummond. 2013. [Birth–death skyline plot reveals temporal changes of epidemic spread in HIV and hepatitis C virus (HCV)](http://www.pnas.org/content/110/1/228). Proceedings of the National Academy of Sciences, 110:228-233.
