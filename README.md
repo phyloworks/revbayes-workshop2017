@@ -11,6 +11,16 @@
 * Dr. Tracy A. Heath, Iowa State University ([http://phyloworks.org](http://phyloworks.org)) 
 * Dr. Walker Pett, Iowa State University ([http://willpett.github.io](http://willpett.github.io)) 
 
+### Instructors and Organizers of the Iowa State Workshop
+
+* [Dr. Peter Wagner]((https://sites.google.com/site/peterwagnersscienceextras/)), University of Nebraska, Lincoln 
+* [Dr. Daniel Ksepka](http://www.ksepka.org), The Bruce Museum 
+* [Dr. Robert Meredith](https://www.montclair.edu/profilepages/view_profile.php?username=meredithr), Montclair State University
+
+## Funding
+
+This workshop is supported by National Science Foundation (NSF) grants [DEB-1556615](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1556615&HistoricalAwards=false) and [DEB-1556701](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1556701&HistoricalAwards=false)
+
 ## Workshop Description
 
 Bayesian statistical methods enable analysis of macroevolutionary processes under complex phylogenetic models. 
