@@ -102,5 +102,7 @@ Stadler, Kühnert, Bonhoeffer, and Drummond. 2013. [Birth–death skyline plot r
 | 12:00 - 13:30 | Lunch                                                  | 
 | 13:30 - 15:00 | Practical: Total-Evidence Dating in RevBayes, continued                                  | 
 | 15:00 -15:30  | Break                                                  | 
-| 15:30 - 17:30 | Special Topic: The Paleobiology Database (Pete Wagner) | 
+| 15:30 - 17:30 | Special Topic: The [Paleobiology Database](https://paleobiodb.org/#/) (Pete Wagner) | 
+
+
 
