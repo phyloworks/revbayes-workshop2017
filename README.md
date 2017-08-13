@@ -88,9 +88,9 @@ Stadler, Kühnert, Bonhoeffer, and Drummond. 2013. [Birth–death skyline plot r
 | 10:30 - 11:00 | Break                                                   | 
 | 11:00 - 12:00 | Theory: MCMC, RevBayes demonstration                    | 
 | 12:00 - 13:30 | Lunch                                                   | 
-| 13:30 - 15:00 | Tutorial: Introduction to MCMC in RevBayes              | 
+| 13:30 - 15:00 | Tutorial: Introduction to MCMC in RevBayes [[tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Intro_Tutorial/RB_MCMC_Intro_Tutorial.pdf)]             | 
 | 15:00 -15:30  | Break                                                   | 
-| 15:30 - 17:30 | Tutorial: Phylogenetic Models in RevBayes               
+| 15:30 - 17:30 | Tutorial: Phylogenetic Models in RevBayes [[tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_CTMC_Tutorial/RB_CTMC_Tutorial.pdf), [Primates data](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/data/primates_and_galeopterus_cytb.nex), [JC Rev script](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_JC.Rev), [GTR+I+G Rev script](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_GTR_Gamma_Inv.Rev)]               |
 
 ### Day 2: August 15, 2017
 
@@ -98,7 +98,7 @@ Stadler, Kühnert, Bonhoeffer, and Drummond. 2013. [Birth–death skyline plot r
 |---------------|--------------------------------------------------------| 
 | 09:00 - 10:30 | Theory: Bayesian Divergence-Time Estimation            | 
 | 10:30 - 11:00 | Break                                                  | 
-| 11:00 - 12:00 | Practical: Total-Evidence Dating in RevBayes           | 
+| 11:00 - 12:00 | Practical: Total-Evidence Dating in RevBayes [[tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_DiversificationRate_Tutorial/RB_DiversificationRate_Tutorial.pdf), [Data files](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_Tutorial/data/primates_springer.tre), [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_Tutorial/scripts.zip)]          | 
 | 12:00 - 13:30 | Lunch                                                  | 
 | 13:30 - 15:00 | Practical: Total-Evidence Dating in RevBayes, continued                                  | 
 | 15:00 -15:30  | Break                                                  | 
