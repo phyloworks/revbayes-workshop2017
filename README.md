@@ -77,3 +77,30 @@ Gavryushkina, Heath, Ksepka, Stadler, Welch, Drummond. 2017. [Bayesian total evi
 du Plessis, and Stadler. 2015. [Getting to the root of epidemic spread with phylodynamic analysis of genomic data](http://www.sciencedirect.com/science/article/pii/S0966842X15001018). Trends in Microbiology, 23:383-386.
 
 Stadler, Kühnert, Bonhoeffer, and Drummond. 2013. [Birth–death skyline plot reveals temporal changes of epidemic spread in HIV and hepatitis C virus (HCV)](http://www.pnas.org/content/110/1/228). Proceedings of the National Academy of Sciences, 110:228-233.
+
+## Iowa State Workshop Schedule
+
+### Day 1: August 14, 2017
+
+|   Time            |           Topic                                              | 
+|---------------|---------------------------------------------------------| 
+| 09:00 - 10:30 | Theory: Introduction to Bayesian phylogenetic inference | 
+| 10:30 - 11:00 | Break                                                   | 
+| 11:00 - 12:00 | Theory: MCMC, RevBayes demonstration                    | 
+| 12:00 - 13:30 | Lunch                                                   | 
+| 13:30 - 15:00 | Tutorial: Introduction to MCMC in RevBayes              | 
+| 15:00 -15:30  | Break                                                   | 
+| 15:30 - 17:30 | Tutorial: Phylogenetic Models in RevBayes               
+
+### Day 2: August 15, 2017
+
+|   Time            |       Topic                                                 | 
+|---------------|--------------------------------------------------------| 
+| 09:00 - 10:30 | Theory: Bayesian Divergence-Time Estimation            | 
+| 10:30 - 11:00 | Break                                                  | 
+| 11:00 - 12:00 | Practical: Total-Evidence Dating in RevBayes           | 
+| 12:00 - 13:30 | Lunch                                                  | 
+| 13:30 - 15:00 | Practical: Total-Evidence Dating in RevBayes, continued                                  | 
+| 15:00 -15:30  | Break                                                  | 
+| 15:30 - 17:30 | Special Topic: The Paleobiology Database (Pete Wagner) | 
+
