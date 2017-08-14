@@ -88,7 +88,7 @@ Stadler, Kühnert, Bonhoeffer, and Drummond. 2013. [Birth–death skyline plot r
 |---------------|---------------------------------------------------------| 
 | 09:00 - 10:30 | Theory: Introduction to Bayesian phylogenetic inference [[slides](https://www.slideshare.net/trayc7/introduction-to-bayesian-phylogenetics)]| 
 | 10:30 - 11:00 | Break                                                   | 
-| 11:00 - 12:00 | Theory: MCMC ([MCMC Robot](http://phylogeny.uconn.edu/mcmc-robot/)), RevBayes demonstration                    | 
+| 11:00 - 12:00 | Theory: MCMC ([MCMC Robot](http://phylogeny.uconn.edu/mcmc-robot/)), RevBayes demonstration ([archery model](https://github.com/phyloworks/revbayes-workshop2017/blob/master/archery-model/archery-mcmc.ipynb))                   | 
 | 12:00 - 13:30 | Lunch                                                   | 
 | 13:30 - 15:00 | Tutorial: Introduction to MCMC in RevBayes [[tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Intro_Tutorial/RB_MCMC_Intro_Tutorial.pdf)]             | 
 | 15:00 -15:30  | Break                                                   | 
