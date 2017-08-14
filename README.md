@@ -78,7 +78,7 @@ du Plessis, and Stadler. 2015. [Getting to the root of epidemic spread with phyl
 
 Stadler, Kühnert, Bonhoeffer, and Drummond. 2013. [Birth–death skyline plot reveals temporal changes of epidemic spread in HIV and hepatitis C virus (HCV)](http://www.pnas.org/content/110/1/228). Proceedings of the National Academy of Sciences, 110:228-233.
 
-## Iowa State Workshop Schedule
+## [Iowa State Workshop Schedule](#Iowa-State-Workshop Schedule)
 
 ### 203 Bessey Hall
 
