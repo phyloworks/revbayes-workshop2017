@@ -86,7 +86,7 @@ Stadler, Kühnert, Bonhoeffer, and Drummond. 2013. [Birth–death skyline plot r
 
 |   Time            |           Topic                                              | 
 |---------------|---------------------------------------------------------| 
-| 09:00 - 10:30 | Theory: Introduction to Bayesian phylogenetic inference | 
+| 09:00 - 10:30 | Theory: Introduction to Bayesian phylogenetic inference [[slides](https://www.slideshare.net/trayc7/introduction-to-bayesian-phylogenetics)]| 
 | 10:30 - 11:00 | Break                                                   | 
 | 11:00 - 12:00 | Theory: MCMC, RevBayes demonstration                    | 
 | 12:00 - 13:30 | Lunch                                                   | 
