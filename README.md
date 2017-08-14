@@ -3,7 +3,7 @@
 ## Upcoming Worshops
 
 * **August 14-15, 2017** -- *Iowa State University*, Ames, Iowa
-* **September 25-26, 2017** -- *International Biogeography Society*, Bengaluru, India
+* **September 25-26, 2017** -- [*International Biogeography Society - India Meeting*](https://www.biogeography.in/), Bengaluru, India
 
 
 ## Instructors
