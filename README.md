@@ -98,7 +98,7 @@ Stadler, Kühnert, Bonhoeffer, and Drummond. 2013. [Birth–death skyline plot r
 
 |   Time            |       Topic                                                 | 
 |---------------|--------------------------------------------------------| 
-| 09:00 - 10:30 | Theory: Bayesian Divergence-Time Estimation            | 
+| 09:00 - 10:30 | Theory: Bayesian Divergence-Time Estimation [[slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/Heath_Aug9_Divergence_Time_Est.pdf)]           | 
 | 10:30 - 11:00 | Break                                                  | 
 | 11:00 - 12:00 | Practical: Total-Evidence Dating in RevBayes [[tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_DiversificationRate_Tutorial/RB_DiversificationRate_Tutorial.pdf), [Data files](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_Tutorial/data/primates_springer.tre), [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_Tutorial/scripts.zip)]          | 
 | 12:00 - 13:30 | Lunch                                                  | 
