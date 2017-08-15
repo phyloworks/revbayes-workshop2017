@@ -43,7 +43,7 @@ We will teach these concepts by integrating theory-based lectures with hands-on 
 
 ## Install RevBayes & Accessory Programs
 
-This workshop will use the most recent version of RevBayes. It can be downloaded for Windows 7 or higher or for Mac OSX 10.6 or higher from [https://github.com/revbayes/revbayes/releases](https://github.com/revbayes/revbayes/releases). For Unix systems, you can clone the source code from [https://github.com/revbayes/revbayes](https://github.com/revbayes/revbayes).
+This workshop will use the most recent version of RevBayes. It can be downloaded for Windows 7 or higher or for Mac OSX 10.6 or higher from [https://github.com/revbayes/revbayes/releases/tag/v1.0.3-release](https://github.com/revbayes/revbayes/releases/tag/v1.0.3-release). For Unix systems, you can clone the source code from [https://github.com/revbayes/revbayes](https://github.com/revbayes/revbayes).
 
 The RevBayes workshops will also use additional for analysis of output and summarization of the MCMC. Please download and install the following:
 
