@@ -1,8 +1,7 @@
 # Introduction to Bayesian inference of phylogenies using molecular and fossil data in RevBayes
 
-## Upcoming Worshops
+## Upcoming Workshop
 
-* **August 14-15, 2017** -- *Iowa State University*, Ames, Iowa
 * **September 25-26, 2017** -- [*International Biogeography Society - India Meeting*](https://www.biogeography.in/), Bengaluru, India
 
 
@@ -11,15 +10,10 @@
 * Dr. Tracy A. Heath, Iowa State University ([http://phyloworks.org](http://phyloworks.org)) 
 * Dr. Walker Pett, Iowa State University ([http://willpett.github.io](http://willpett.github.io)) 
 
-### Instructors and Organizers of the Iowa State Workshop
-
-* [Dr. Peter Wagner]((https://sites.google.com/site/peterwagnersscienceextras/)), University of Nebraska, Lincoln 
-* [Dr. Daniel Ksepka](http://www.ksepka.org), The Bruce Museum 
-* [Dr. Robert Meredith](https://www.montclair.edu/profilepages/view_profile.php?username=meredithr), Montclair State University
 
 ## Funding
 
-This workshop is supported by National Science Foundation (NSF) grants [DEB-1556615](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1556615&HistoricalAwards=false) and [DEB-1556701](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1556701&HistoricalAwards=false)
+This workshop is supported by funds form the Simons Center for the Study of Living Machines at the National Centre for Biological Sciences (India) and by National Science Foundation (NSF) grants [DEB-1556615](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1556615&HistoricalAwards=false) and [DEB-1556701](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1556701&HistoricalAwards=false).
 
 ## Workshop Description
 
