@@ -13,7 +13,7 @@
 
 ## Funding
 
-This workshop is supported by funds form the Simons Center for the Study of Living Machines at the National Centre for Biological Sciences (India) and by National Science Foundation (NSF) grants [DEB-1556615](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1556615&HistoricalAwards=false) and [DEB-1556701](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1556701&HistoricalAwards=false).
+This workshop is supported by funds form the Simons Center for the Study of Living Machines at the National Centre for Biological Sciences (India) and by National Science Foundation (USA) grants [DEB-1556615](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1556615&HistoricalAwards=false) and [DEB-1556701](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1556701&HistoricalAwards=false).
 
 ## Workshop Description
 
