@@ -72,7 +72,7 @@ du Plessis, and Stadler. 2015. [Getting to the root of epidemic spread with phyl
 
 Stadler, Kühnert, Bonhoeffer, and Drummond. 2013. [Birth–death skyline plot reveals temporal changes of epidemic spread in HIV and hepatitis C virus (HCV)](http://www.pnas.org/content/110/1/228). Proceedings of the National Academy of Sciences, 110:228-233.
 
-## Iowa State Workshop Schedule
+## Workshop Schedule
 
 ### Location: 203 Bessey Hall
 
@@ -96,9 +96,4 @@ Stadler, Kühnert, Bonhoeffer, and Drummond. 2013. [Birth–death skyline plot r
 | 10:30 - 11:00 | Break                                                  | 
 | 11:00 - 12:00 | Practical: Total-Evidence Dating in RevBayes [[tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_TotalEvidenceDating_FBD_Tutorial/RB_TotalEvidenceDating_FBD_Tutorial.pdf), [Data files](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/data.zip), [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/scripts.zip)]          | 
 | 12:00 - 13:30 | Lunch                                                  | 
-| 13:30 - 15:00 | Practical: Total-Evidence Dating in RevBayes, continued                                  | 
-| 15:00 -15:30  | Break                                                  | 
-| 15:30 - 17:30 | Special Topic: The [Paleobiology Database](https://paleobiodb.org/#/) (Pete Wagner) | 
-
-
-
+| 13:30 - 15:30 | Practical: Total-Evidence Dating in RevBayes, continued                                  
