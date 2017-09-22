@@ -37,7 +37,7 @@ We will teach these concepts by integrating theory-based lectures with hands-on 
 
 ## Install RevBayes & Accessory Programs
 
-This workshop will use version 1.0.3 of RevBayes. It can be downloaded for Windows 7 or higher or for Mac OSX 10.6 or higher from [https://github.com/revbayes/revbayes/releases/tag/v1.0.3-release](https://github.com/revbayes/revbayes/releases/tag/v1.0.3-release). For Unix systems, you can clone the source code from [https://github.com/revbayes/revbayes](https://github.com/revbayes/revbayes).
+This workshop will use a new version RevBayes that has not been posted online yet. It should be available by 23 September for Mac OS X and Windows. For Unix systems, you can clone the source code from [https://github.com/revbayes/revbayes](https://github.com/revbayes/revbayes).
 
 The RevBayes workshops will also use additional for analysis of output and summarization of the MCMC. Please download and install the following:
 
@@ -74,25 +74,27 @@ Stadler, Kühnert, Bonhoeffer, and Drummond. 2013. [Birth–death skyline plot r
 
 ## Workshop Schedule
 
-### Location: 203 Bessey Hall
 
-### Day 1: August 14, 2017
+
+### Day 1: 25 September 2017
 
 |   Time            |           Topic                                              | 
 |---------------|---------------------------------------------------------| 
-| 09:00 - 10:30 | Theory: Introduction to Bayesian phylogenetic inference [[slides](https://www.slideshare.net/trayc7/introduction-to-bayesian-phylogenetics)]| 
-| 10:30 - 11:00 | Break                                                   | 
-| 11:00 - 12:00 | Theory: MCMC ([MCMC Robot](http://phylogeny.uconn.edu/mcmc-robot/)), RevBayes demonstration ([archery model](https://github.com/phyloworks/revbayes-workshop2017/blob/master/archery-model/archery-mcmc.ipynb))                   | 
-| 12:00 - 13:30 | Lunch                                                   | 
-| 13:30 - 15:00 | Tutorial: Introduction to MCMC in RevBayes [[tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Intro_Tutorial/RB_MCMC_Intro_Tutorial.pdf)]             | 
-| 15:00 -15:30  | Break                                                   | 
-| 15:30 - 17:30 | Tutorial: Phylogenetic Models in RevBayes [[tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_CTMC_Tutorial/RB_CTMC_Tutorial.pdf), [Primates data](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/data/primates_and_galeopterus_cytb.nex), [JC Rev script](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_JC.Rev), [GTR+I+G Rev script](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_GTR_Gamma_Inv.Rev)]               |
+| 09:00 - 10:00 | Theory: Introduction to Bayesian phylogenetic inference 
+| 10:00 - 10:30 | Break                                                   | 
+| 10:30 - 12:00 | Theory: MCMC ([MCMC Robot](http://phylogeny.uconn.edu/mcmc-robot/)), RevBayes demonstration                    | 
+| 12:00 - 13:00 | Lunch                                                   | 
+| 13:00 - 15:00 | Tutorial: Introduction to MCMC in RevBayes             | 
+| 15:30 -16:00  | Break                                                   | 
+| 15:30 - 18:00 | Tutorial: Phylogenetic Models in RevBayes              |
+| 18:00 - 18:30 | Discussion or finish tutorials               |
 
-### Day 2: August 15, 2017
+
+### Day 2: 26 September 2017
 
 |   Time            |       Topic                                                 | 
 |---------------|--------------------------------------------------------| 
-| 09:00 - 10:30 | Theory: Bayesian Divergence-Time Estimation [[slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/Heath_Aug9_Divergence_Time_Est.pdf)]           | 
+| 09:00 - 10:30 | Theory: Bayesian Divergence-Time Estimation           | 
 | 10:30 - 11:00 | Break                                                  | 
 | 11:00 - 12:00 | Practical: Total-Evidence Dating in RevBayes [[tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_TotalEvidenceDating_FBD_Tutorial/RB_TotalEvidenceDating_FBD_Tutorial.pdf), [Data files](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/data.zip), [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/scripts.zip)]          | 
 | 12:00 - 13:30 | Lunch                                                  | 
