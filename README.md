@@ -46,6 +46,33 @@ The RevBayes workshops will also use additional for analysis of output and summa
 * IcyTree (a web-based tree viewer; [http://tgvaughan.github.io/icytree/](http://tgvaughan.github.io/icytree))
 * Text editors: [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io)
 
+## Workshop Schedule
+
+
+### Day 1: 25 September 2017
+
+|   Time            |           Topic                                              | 
+|---------------|---------------------------------------------------------| 
+| 09:00 - 10:00 | Theory: Introduction to Bayesian phylogenetic inference 
+| 10:00 - 10:30 | Break                                                   | 
+| 10:30 - 12:00 | Theory: MCMC ([MCMC Robot](http://phylogeny.uconn.edu/mcmc-robot/)), RevBayes demonstration                    | 
+| 12:00 - 13:00 | Lunch                                                   | 
+| 13:00 - 15:00 | Tutorial: Introduction to MCMC in RevBayes             | 
+| 15:30 -16:00  | Break                                                   | 
+| 15:30 - 18:00 | Tutorial: Phylogenetic Models in RevBayes              |
+| 18:00 - 18:30 | Discussion or finish tutorials               |
+
+
+### Day 2: 26 September 2017
+
+|   Time            |       Topic                                                 | 
+|---------------|--------------------------------------------------------| 
+| 09:00 - 10:30 | Theory: Bayesian Divergence-Time Estimation           | 
+| 10:30 - 11:00 | Break                                                  | 
+| 11:00 - 12:00 | Practical: Total-Evidence Dating in RevBayes [[tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_TotalEvidenceDating_FBD_Tutorial/RB_TotalEvidenceDating_FBD_Tutorial.pdf), [Data files](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/data.zip), [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/scripts.zip)]          | 
+| 12:00 - 13:30 | Lunch                                                  | 
+| 13:30 - 15:30 | Practical: Total-Evidence Dating in RevBayes, continued                                  
+
 ## Recommended Background Material
 
 ### Tutorials
@@ -72,30 +99,3 @@ du Plessis, and Stadler. 2015. [Getting to the root of epidemic spread with phyl
 
 Stadler, Kühnert, Bonhoeffer, and Drummond. 2013. [Birth–death skyline plot reveals temporal changes of epidemic spread in HIV and hepatitis C virus (HCV)](http://www.pnas.org/content/110/1/228). Proceedings of the National Academy of Sciences, 110:228-233.
 
-## Workshop Schedule
-
-
-
-### Day 1: 25 September 2017
-
-|   Time            |           Topic                                              | 
-|---------------|---------------------------------------------------------| 
-| 09:00 - 10:00 | Theory: Introduction to Bayesian phylogenetic inference 
-| 10:00 - 10:30 | Break                                                   | 
-| 10:30 - 12:00 | Theory: MCMC ([MCMC Robot](http://phylogeny.uconn.edu/mcmc-robot/)), RevBayes demonstration                    | 
-| 12:00 - 13:00 | Lunch                                                   | 
-| 13:00 - 15:00 | Tutorial: Introduction to MCMC in RevBayes             | 
-| 15:30 -16:00  | Break                                                   | 
-| 15:30 - 18:00 | Tutorial: Phylogenetic Models in RevBayes              |
-| 18:00 - 18:30 | Discussion or finish tutorials               |
-
-
-### Day 2: 26 September 2017
-
-|   Time            |       Topic                                                 | 
-|---------------|--------------------------------------------------------| 
-| 09:00 - 10:30 | Theory: Bayesian Divergence-Time Estimation           | 
-| 10:30 - 11:00 | Break                                                  | 
-| 11:00 - 12:00 | Practical: Total-Evidence Dating in RevBayes [[tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_TotalEvidenceDating_FBD_Tutorial/RB_TotalEvidenceDating_FBD_Tutorial.pdf), [Data files](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/data.zip), [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/scripts.zip)]          | 
-| 12:00 - 13:30 | Lunch                                                  | 
-| 13:30 - 15:30 | Practical: Total-Evidence Dating in RevBayes, continued                                  
