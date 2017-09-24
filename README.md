@@ -50,7 +50,8 @@ The RevBayes workshops will also use additional for analysis of output and summa
 
 ## Workshop Schedule
 
-### Location: Computer Lab at the Centre for Ecological Sciences (CES)
+### Location: 
+Computer Lab at the Centre for Ecological Sciences (CES)
 
 ### Day 1: 25 September 2017
 
