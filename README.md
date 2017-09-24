@@ -48,10 +48,10 @@ The RevBayes workshops will also use additional for analysis of output and summa
 * IcyTree (a web-based tree viewer; [http://tgvaughan.github.io/icytree/](http://tgvaughan.github.io/icytree))
 * Text editors: [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io)
 
-## Workshop Schedule
+## Workshop Schedule - Bengaluru
 
 ### Location: 
-Computer Lab at the Centre for Ecological Sciences (CES)
+Lotka–Volterra Computer Lab (floor 3) at the Centre for Ecological Sciences (CES)
 
 ### Day 1: 25 September 2017
 
