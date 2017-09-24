@@ -37,7 +37,7 @@ We will teach these concepts by integrating theory-based lectures with hands-on 
 
 ## Install RevBayes & Accessory Programs
 
-This workshop will use RevBayes v1.0.6. Please go to the link below to get executable versions for Windows and Mac OS X. For Linux systems, you can download the source code (also at the link provided) and follow the instructions for compiling using [`cmake`](https://cmake.org/).
+This workshop will use RevBayes v1.0.6. Please go to the link below to get executable versions for Windows and Mac OS X. For Linux systems, you can download the source code (also at the link provided) and follow the instructions for compiling using [cmake](https://cmake.org/).
 
 [**Download RevBayes v1.0.6**](https://github.com/revbayes/revbayes/releases/tag/v1.0.6)
 
