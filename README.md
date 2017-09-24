@@ -59,7 +59,7 @@ Computer Lab at the Centre for Ecological Sciences (CES)
 |---------------|---------------------------------------------------------|----|
 | 09:00 - 10:00 | Theory: Introduction to Bayesian phylogenetic inference |  |
 | 10:00 - 10:30 | Break                                                   |   |
-| 10:30 - 12:00 | Theory: MCMC, RevBayes demonstration                    | [MCMC Robot](http://phylogeny.uconn.edu/mcmc-robot/) |
+| 10:30 - 12:00 | Theory: MCMC, RevBayes demonstration                    | [MCMC Robot](http://phylogeny.uconn.edu/mcmc-robot/), [archery model demo](https://github.com/phyloworks/revbayes-workshop2017/blob/master/archery-model/archery-mcmc.ipynb) |
 | 12:00 - 13:00 | Lunch                                                   |   |
 | 13:00 - 15:00 | Tutorial: Introduction to MCMC in RevBayes             | [tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Archery_Tutorial/RB_MCMC_Archery_Tutorial.pdf) |
 | 15:30 -16:00  | Break                                                   |   |
