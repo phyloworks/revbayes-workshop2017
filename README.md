@@ -62,7 +62,7 @@ The RevBayes workshops will also use additional for analysis of output and summa
 | 12:00 - 13:00 | Lunch                                                   |   |
 | 13:00 - 15:00 | Tutorial: Introduction to MCMC in RevBayes             | [tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Archery_Tutorial/RB_MCMC_Archery_Tutorial.pdf) |
 | 15:30 -16:00  | Break                                                   |   |
-| 15:30 - 18:00 | Tutorial: Phylogenetic Models in RevBayes              | [tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_CTMC_Tutorial/RB_CTMC_Tutorial.pdf), [data file](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/data/primates_and_galeopterus_cytb.nex), [`mcmc_JC.Rev`](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_JC.Rev), [`mcmc_GTR.Rev`](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_GTR.Rev) |
+| 15:30 - 18:00 | Tutorial: Phylogenetic Models in RevBayes              | [tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_CTMC_Tutorial/RB_CTMC_Tutorial.pdf), [data file](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/data/primates_and_galeopterus_cytb.nex), [mcmc_JC.Rev](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_JC.Rev), [mcmc_GTR.Rev](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_GTR.Rev) |
 | 18:00 - 18:30 | Discussion or finish tutorials               |  |
 
 
