@@ -71,7 +71,7 @@ Lotka–Volterra Computer Lab (floor 3) at the Centre for Ecological Sciences (C
 
 |   Time        |           Topic                                     | Links & Files |
 |---------------|---------------------------------------------------------|----|
-| 09:00 - 10:30 | Theory: Bayesian Divergence-Time Estimation           |   |
+| 09:00 - 10:30 | Theory: Bayesian Divergence-Time Estimation           | [slides](https://github.com/phyloworks/revbayes-workshop2017/blob/master/slides/Lect2-RevBayes-Workshop.pdf)  |
 | 10:30 - 11:00 | Break                                                  |   |
 | 11:00 - 12:00 | Practical: Total-Evidence Dating in RevBayes          |[tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_TotalEvidenceDating_FBD_Tutorial/RB_TotalEvidenceDating_FBD_Tutorial.pdf), [Data files](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/data.zip), [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/scripts.zip) |
 | 12:00 - 13:30 | Lunch                                                  |   |
