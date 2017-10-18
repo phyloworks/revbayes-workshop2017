@@ -55,24 +55,20 @@ Botanical Institute in the Gothenburg Botanic Garden, Room 6
 
 |   Time        |           Topic                                     | Links & Files |
 |---------------|---------------------------------------------------------|----|
-| 09:00 - 10:00 | Theory: Introduction to Bayesian phylogenetic inference | [slides](https://github.com/phyloworks/revbayes-workshop2017/blob/master/slides/Lect1-RevBayes-Workshop.pdf) |
-| 10:00 - 10:30 | Break                                                   |   |
-| 10:30 - 12:00 | Theory: MCMC, RevBayes demonstration                    | [MCMC Robot](http://phylogeny.uconn.edu/mcmc-robot/), [archery model demo](https://github.com/phyloworks/revbayes-workshop2017/blob/master/archery-model/archery-mcmc.ipynb) |
+| 09:00 - 10:00 | Theory: Introduction to MCMC in RevBayes | [slides](https://github.com/phyloworks/revbayes-workshop2017/blob/master/slides/Lect1-RevBayes-Workshop.pdf) |   |
+| 10:00 - 12:00 | Practical: Introduction to MCMC in RevBayes             | [tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Archery_Tutorial/RB_MCMC_Archery_Tutorial.pdf) |
 | 12:00 - 13:00 | Lunch                                                   |   |
-| 13:00 - 15:00 | Tutorial: Introduction to MCMC in RevBayes             | [tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Archery_Tutorial/RB_MCMC_Archery_Tutorial.pdf) |
-| 15:30 -16:00  | Break                                                   |   |
-| 15:30 - 17:00 | Tutorial: Phylogenetic Models in RevBayes              | [tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_CTMC_Tutorial/RB_CTMC_Tutorial.pdf), [data file](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/data/primates_and_galeopterus_cytb.nex), [mcmc_JC.Rev](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_JC.Rev), [mcmc_GTR.Rev](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_GTR.Rev) |  |
+| 13:00 - 16:00 | Practical: Phylogenetic Models in RevBayes              | [tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_CTMC_Tutorial/RB_CTMC_Tutorial.pdf), [data file](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/data/primates_and_galeopterus_cytb.nex), [mcmc_JC.Rev](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_JC.Rev), [mcmc_GTR.Rev](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_GTR.Rev) |  |
 
 
 ### Day 2: 26 October 2017
 
 |   Time        |           Topic                                     | Links & Files |
 |---------------|---------------------------------------------------------|----|
-| 09:00 - 10:30 | Theory: Bayesian Divergence-Time Estimation           | [slides](https://github.com/phyloworks/revbayes-workshop2017/blob/master/slides/Lect2-RevBayes-Workshop.pdf)  |
-| 10:30 - 11:00 | Break                                                  |   |
-| 11:00 - 12:00 | Practical: Total-Evidence Dating in RevBayes          |[tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_TotalEvidenceDating_FBD_Tutorial/RB_TotalEvidenceDating_FBD_Tutorial.pdf), [Data files](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/data.zip), [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/scripts.zip) |
-| 12:00 - 13:30 | Lunch                                                  |   |
-| 13:30 - 17:00 | Practical: Total-Evidence Dating in RevBayes, continued  |   |                               
+| 09:00 - 10:30 | Theory: Bayesian Divergence-Time Estimation           | [slides](https://github.com/phyloworks/revbayes-workshop2017/blob/master/slides/Lect2-RevBayes-Workshop.pdf)  |   |
+| 10:30 - 12:00 | Practical: Total-Evidence Dating in RevBayes          |[tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_TotalEvidenceDating_FBD_Tutorial/RB_TotalEvidenceDating_FBD_Tutorial.pdf), [Data files](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/data.zip), [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/scripts.zip) |
+| 12:00 - 13:00 | Lunch                                                  |   |
+| 13:00 - 16:00 | Practical: Total-Evidence Dating in RevBayes, continued  |   |                               
 
 ## Recommended Background Material
 
