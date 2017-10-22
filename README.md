@@ -46,12 +46,10 @@ The RevBayes workshops will also use additional for analysis of output and summa
 * IcyTree (a web-based tree viewer; [http://tgvaughan.github.io/icytree/](http://tgvaughan.github.io/icytree))
 * Text editors: [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io)
 
-## Workshop Schedule - Gothenburg
-
-### Location: 
-Botanical Institute in the Gothenburg Botanic Garden, Room 6
+## Workshop Schedule - Gothenburg 
 
 ### Day 1: 25 October 2017
+**Location:** Gothenburg Botanical Garden, [Carl Skottsbergs gata 22B](https://maps.google.com/?q=Carl+Skottsbergs+gata+22B&entry=gmail&source=g), Room 10
 
 |   Time        |           Topic                                     | Links & Files |
 |---------------|---------------------------------------------------------|----|
@@ -62,6 +60,7 @@ Botanical Institute in the Gothenburg Botanic Garden, Room 6
 
 
 ### Day 2: 26 October 2017
+**Location:** Gothenburg Botanical Garden, [Carl Skottsbergs gata 22B](https://maps.google.com/?q=Carl+Skottsbergs+gata+22B&entry=gmail&source=g), Room 6
 
 |   Time        |           Topic                                     | Links & Files |
 |---------------|---------------------------------------------------------|----|
