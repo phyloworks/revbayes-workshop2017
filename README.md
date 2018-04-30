@@ -2,18 +2,17 @@
 
 ## Upcoming Workshop
 
-* **September 25-26, 2017** -- [*International Biogeography Society - India Meeting*](https://www.biogeography.in/), Bengaluru, India
+* **October 23-27, 2017** -- [*University of Gothenburg and ForBio workshop*](http://www.forbio.uio.no/events/courses/2017/RevBayes_and_BEAST2.html), Gothenburg, Sweden
 
 
 ## Instructors
 
-* Dr. Tracy A. Heath, Iowa State University ([http://phyloworks.org](http://phyloworks.org)) 
 * Dr. Walker Pett, Iowa State University ([http://willpett.github.io](http://willpett.github.io)) 
 
 
 ## Funding
 
-This workshop is supported by funds form the Simons Center for the Study of Living Machines at the National Centre for Biological Sciences (India) and by National Science Foundation (USA) grants [DEB-1556615](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1556615&HistoricalAwards=false) and [DEB-1556701](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1556701&HistoricalAwards=false).
+This workshop is supported by funds form the [ForBio Research School in Biosystematics](http://www.forbio.uio.no/) (Sweden) and by National Science Foundation (USA) grants [DEB-1556615](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1556615&HistoricalAwards=false).
 
 ## Workshop Description
 
@@ -28,7 +27,6 @@ We will teach these concepts by integrating theory-based lectures with hands-on 
 * Probabilistic graphical models
 * The Rev language 
 * Inferring phylogenies in RevBayes
-* Model selection using Bayes factors
 * Estimating species divergence times
     * Stochastic branching processes as tree priors, with particular emphasis on the fossilized birth-death model (FBD)
     * Models of lineage-specific substitution rates (or rates of morphological change)
@@ -48,34 +46,28 @@ The RevBayes workshops will also use additional for analysis of output and summa
 * IcyTree (a web-based tree viewer; [http://tgvaughan.github.io/icytree/](http://tgvaughan.github.io/icytree))
 * Text editors: [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io)
 
-## Workshop Schedule - Bengaluru
+## Workshop Schedule - Gothenburg 
 
-### Location: 
-Lotka–Volterra Computer Lab (floor 3) at the Centre for Ecological Sciences (CES)
-
-### Day 1: 25 September 2017
+### Day 1: 25 October 2017
+**Location:** Gothenburg Botanical Garden, [Carl Skottsbergs gata 22B](https://maps.google.com/?q=Carl+Skottsbergs+gata+22B&entry=gmail&source=g), Room 10
 
 |   Time        |           Topic                                     | Links & Files |
 |---------------|---------------------------------------------------------|----|
-| 09:00 - 10:00 | Theory: Introduction to Bayesian phylogenetic inference | [slides](https://github.com/phyloworks/revbayes-workshop2017/blob/master/slides/Lect1-RevBayes-Workshop.pdf) |
-| 10:00 - 10:30 | Break                                                   |   |
-| 10:30 - 12:00 | Theory: MCMC, RevBayes demonstration                    | [MCMC Robot](http://phylogeny.uconn.edu/mcmc-robot/), [archery model demo](https://github.com/phyloworks/revbayes-workshop2017/blob/master/archery-model/archery-mcmc.ipynb) |
+| 09:00 - 10:00 | Theory: Introduction to MCMC in RevBayes | [slides](https://github.com/phyloworks/revbayes-workshop2017/blob/master/slides/Lect1-RevBayes-Workshop.pdf) |   |
+| 10:00 - 12:00 | Practical: Introduction to MCMC in RevBayes             | [tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Archery_Tutorial/RB_MCMC_Archery_Tutorial.pdf) |
 | 12:00 - 13:00 | Lunch                                                   |   |
-| 13:00 - 15:00 | Tutorial: Introduction to MCMC in RevBayes             | [tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Archery_Tutorial/RB_MCMC_Archery_Tutorial.pdf) |
-| 15:30 -16:00  | Break                                                   |   |
-| 15:30 - 18:00 | Tutorial: Phylogenetic Models in RevBayes              | [tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_CTMC_Tutorial/RB_CTMC_Tutorial.pdf), [data file](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/data/primates_and_galeopterus_cytb.nex), [mcmc_JC.Rev](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_JC.Rev), [mcmc_GTR.Rev](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_GTR.Rev) |
-| 18:00 - 18:30 | Discussion or finish tutorials               |  |
+| 13:00 - 16:00 | Practical: Phylogenetic Models in RevBayes              | [tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_CTMC_Tutorial/RB_CTMC_Tutorial.pdf), [data file](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/data/primates_and_galeopterus_cytb.nex), [mcmc_JC.Rev](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_JC.Rev), [mcmc_GTR.Rev](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_GTR.Rev) |  |
 
 
-### Day 2: 26 September 2017
+### Day 2: 26 October 2017
+**Location:** Gothenburg Botanical Garden, [Carl Skottsbergs gata 22B](https://maps.google.com/?q=Carl+Skottsbergs+gata+22B&entry=gmail&source=g), Room 6
 
 |   Time        |           Topic                                     | Links & Files |
 |---------------|---------------------------------------------------------|----|
-| 09:00 - 10:30 | Theory: Bayesian Divergence-Time Estimation           | [slides](https://github.com/phyloworks/revbayes-workshop2017/blob/master/slides/Lect2-RevBayes-Workshop.pdf)  |
-| 10:30 - 11:00 | Break                                                  |   |
-| 11:00 - 12:00 | Practical: Total-Evidence Dating in RevBayes          |[tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_TotalEvidenceDating_FBD_Tutorial/RB_TotalEvidenceDating_FBD_Tutorial.pdf), [Data files](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/data.zip), [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/scripts.zip) |
-| 12:00 - 13:30 | Lunch                                                  |   |
-| 13:30 - 15:30 | Practical: Total-Evidence Dating in RevBayes, continued  |   |                               
+| 09:00 - 10:30 | Theory: Bayesian Divergence-Time Estimation           | [slides](https://github.com/phyloworks/revbayes-workshop2017/blob/master/slides/Lect2-RevBayes-Workshop.pdf)  |   |
+| 10:30 - 12:00 | Practical: Total-Evidence Dating in RevBayes          |[tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_TotalEvidenceDating_FBD_Tutorial/RB_TotalEvidenceDating_FBD_Tutorial.pdf), [Data files](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/data.zip), [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_TotalEvidenceDating_FBD_Tutorial/scripts.zip) |
+| 12:00 - 13:00 | Lunch                                                  |   |
+| 13:00 - 16:00 | Practical: Total-Evidence Dating in RevBayes, continued  |   |                               
 
 ## Recommended Background Material
 
